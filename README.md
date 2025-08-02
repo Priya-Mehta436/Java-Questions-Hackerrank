@@ -1,75 +1,57 @@
-<h1 align="center">☕ Java Challenges – HackerRank Edition</h1>
+<h1 align="center">☕ Java HackerRank Journey 🚀</h1>
 
 <p align="center">
-  🧠 A journey of mastering Java, one problem at a time!  
-  <br>
-  🔗 Practicing on <a href="https://www.hackerrank.com/profile/Priya12z9sc" target="_blank">HackerRank</a> | 💻 Coded in Java | 🧑‍🎓 Made with passion!
+  🧑‍💻 Leveling up my Java skills <br/>
+  💡 One problem at a time on <a href="https://www.hackerrank.com/profile/Priya12z9sc" target="_blank">HackerRank</a> 🌐
 </p>
 
 ---
 
-## 🚀 Overview
+## 🎯 About This Repository
 
-Welcome to my curated collection of **Java programming solutions** from HackerRank’s Java track!  
-This repo documents my 🧩 learning, 🔁 consistency, and 📈 growth in Java — with clean, modular, and easy-to-understand code.
+Welcome to my **Java problem-solving playground**!  
+This repo contains all the Java challenges I've solved as part of my **HackerRank learning journey** — from basics to advanced concepts.
 
-> 🎯 Perfect for beginners, students, or anyone preparing for interviews with Java.
-
----
-
-## 🧠 What You’ll Find Here
-
-✅ Java problems solved from HackerRank  
-📂 Well-structured by topic  
-💬 Commented code for clarity  
-🧪 Beginner to intermediate level  
-🧠 Logical thinking & coding practice  
+> ✨ Clean code, meaningful logic, and steady growth.
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Layout
 
+```bash
 Java-Questions-HackerRank/
-├── 01_Basics/ 📘 Input, Output, Data Types
-├── 02_Strings/ 🧵 String Manipulation Problems
-├── 03_OOP/ 🧱 Classes, Objects, Inheritance
-├── 04_DateTime/ ⏳ Date & Calendar APIs
-├── 05_Advanced/ ⚙️ Regex, BigInteger, etc.
-└── README.md 📄 You’re reading it!
+├── 01_Basics/         # Input/Output, Data Types
+├── 02_Strings/        # Java Strings & Manipulation
+├── 03_OOP/            # Classes, Objects, Inheritance
+├── 04_DateTime/       # Working with Dates & Time
+├── 05_Advanced/       # Regex, BigInteger, Exception Handling
+└── README.md          # You're here!
+✔️ Every folder includes:
 
-yaml
+✅ Neatly written .java files
+
+✍️ Self-explanatory code with comments
+
+📌 File names matching the original problem
+
+🧠 Topics Covered
+🧩 Area	💬 Description
+☕ Java Basics	Input/Output, loops, conditionals, formatting
+🧵 Strings	Substrings, anagrams, tokens, comparisons
+🧱 OOP	Classes, inheritance, abstraction, interfaces
+📅 Date & Time	Calendar, Day of the Week, DateTime APIs
+⚙️ Advanced Java	Regex, Static Blocks, BigInteger, Exceptions
+
+⚙️ How to Use
+Clone this repo
+
+bash
 Copy
 Edit
+git clone https://github.com/Priya-Mehta436/Java-Questions-HackerRank.git
+Open in your favorite IDE (IntelliJ / VSCode / Eclipse)
 
-Each folder includes:
-- 🔸 Java `.java` solution files  
-- 🏷️ Named after HackerRank problem titles  
-- 💡 Helpful inline comments  
-
----
-
-## 📚 Topics Covered
-
-| 🧩 Category             | 💡 Topics Included                                                      |
-|-------------------------|-------------------------------------------------------------------------|
-| 🧮 Java Basics           | Data Types, Input/Output, Output Formatting                             |
-| 🔄 Conditionals & Loops | If-Else, Switch, Loops, Nested Logic                                    |
-| 🧵 Strings              | Substrings, Anagrams, Lexicographic Comparisons, Tokens                 |
-| 🧱 OOP                 | Classes, Inheritance, Interfaces, Abstraction                          |
-| 📅 Date & Time          | Java Calendar APIs, Day of Week Calculations                            |
-| ⚙️ Advanced Concepts    | Regex, BigInteger, Static Blocks, Exception Handling                    |
-
----
-
-## 🛠️ How to Use
-
-1. **📥 Clone the Repository**
-   ```bash
-   git clone https://github.com/Priya-Mehta436/Java-Questions-HackerRank.git
-🧑‍💻 Open in your favorite IDE
-💡 Recommended: IntelliJ IDEA, VS Code, or Eclipse
-
-▶️ Run the Programs
+Compile & Run any file
 
 bash
 Copy
@@ -77,12 +59,16 @@ Edit
 javac FileName.java
 java FileName
 
-🌐 Connect With Me
-🌟 Platform	🔗 Link
-👩‍💻 HackerRank https://www.hackerrank.com/profile/Priya12z9sc
-🧑‍💻 GitHub	@Priya-Mehta436
+🔗 My HackerRank & GitHub Profiles
+💼 HackerRank: Priya12z9sc
+💻 GitHub: Priya-Mehta436
 
-📝 Final Thought
-✨ "Consistency is more powerful than intensity." ✨
-Every challenge solved here is a small step toward mastering Java & becoming a better developer.
+🌟 Highlights
+✨ Focus on writing clear and readable Java
+✨ Helpful for revision and interview prep
+✨ Beginner-friendly with growing complexity
+✨ Reflects real-time learning & consistency
 
+💬 Final Note
+“Consistency + Curiosity = Growth” 🚀
+Every line of code here is a small step toward becoming a better Java developer.
