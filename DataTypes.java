@@ -16,9 +16,6 @@ public class DataTypes {
 
     public static void main(String []argh)
     {
-
-
-
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
 
@@ -45,5 +42,6 @@ public class DataTypes {
                 System.out.println(sc.next()+" can't be fitted anywhere.");
             }
         }
+        sc.close();
     }
 }
